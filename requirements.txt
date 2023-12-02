@@ -1,0 +1,10 @@
+psycopg2-binary
+langchain
+openai
+tiktoken
+streamlit
+pandas==2.0
+extra_streamlit_components
+streamlit-ext
+plotly
+matplotlib
