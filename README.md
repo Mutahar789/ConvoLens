@@ -20,6 +20,18 @@ Easily navigate and explore your data with our intuitive, user-friendly dashboar
 <img src="app/ui/happy_customer.png" alt="color picker" />
 Experience the future of call center management with ConvoLens. Harness the power of data, gain valuable insights, and elevate your customer service to new heights.
 
+# Demo
+
+### Search
+
+<img src="app/ui/demo/search_example_1.gif" alt="color picker" />
+<img src="app/ui/demo/search_example_2.gif" alt="color picker" />
+<img src="app/ui/demo/search_example_3.gif" alt="color picker" />
+
+### Agent review
+
+<img src="app/ui/demo/agent_review.gif" alt="color picker" />
+
 # How it works?
 
 Add work here
