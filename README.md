@@ -23,9 +23,9 @@ Experience the future of call center management with ConvoLens. Harness the powe
 # How it works?
 
 Each audio is processed as following:
-1. Transcription using OpenAI Whisper
-2. Extraction of features such as customer satisfaction, user quality of interaction, and unprofessional agent behavior using LLM
-3. Embedded using OpenAI embeddings (text-embedding-ada-002)
+1. Audio transcription using OpenAI Whisper.
+2. Extraction of features such as customer satisfaction, user quality of interaction, and unprofessional agent behavior.
+3. Embedded using OpenAI embeddings
 4. Inserted into database (pgvector)
 
 # Demo
